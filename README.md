@@ -1,6 +1,6 @@
 # Attack and Penetration Testing Report
 
-This repository contains my ** Red Team: Attack and Penetration Testing** report. The objective of this project was to perform controlled network reconnaissance, vulnerability assessment, and limited exploitation attempts against an assigned target virtual machine.
+This repository contains my **Red Team: Attack and Penetration Testing** report. The objective of this project was to perform controlled network reconnaissance, vulnerability assessment, and limited exploitation attempts against an assigned target virtual machine.
 
 ---
 
@@ -17,12 +17,14 @@ All tests were performed under strict **Rules of Engagement**, with no denial-of
 ---
 
 ## 📂 Repository Structure
+
+```text
 attack-and-penetration-testing/
-├── Pen_Test_Report.md # Full penetration testing report
-└── screenshots/ # Evidence screenshots
-├── nmap_scan.png
-├── ftp_test.png
-└── metasploit_fail.png
+├── Pen_Test_Report.md       # Full penetration testing report
+└── screenshots/            # Evidence screenshots
+    ├── nmap_scan.png
+    ├── ftp_test.png
+    └── metasploit_fail.png
 
 
 ---
